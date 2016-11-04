@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BaseActivity!</string>
+    <string name="app_name">Hit Hard</string>
+    <string name="title_1">Bilal</string>
+    <string name="title_2">Mujeeb</string>
+    <string name="start">Start</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="points">Points</string>
+    <string name="attempts">Attempts</string>
+</resources>
